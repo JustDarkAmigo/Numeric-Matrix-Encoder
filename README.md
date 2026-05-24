@@ -69,7 +69,6 @@ cd Numeric-Matrix-Encoder
 pip install -r requirements.txt
 ```
 
-``
 ### Usage
 1. Open the file main.py
 2. Select the operating mode in the function
