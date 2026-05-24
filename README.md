@@ -38,6 +38,7 @@ python main.py
     *(1,1), (3,1), (2,2), (1,3), (5,1), (4,2), (3,3), (2,4), (1,5)* — это 9 точек, расположенных в форме «змейки» или лесенки.
 - **Нечётная позиция** (старшая из пары) использует последовательность:  
     *(6,6), (6,4), (5,5), (4,6), (6,2), (5,3), (4,4), (3,5), (2,6)* — симметричное отражение относительно центра блока.
+
 Цифра от 0 до 9 кодируется закрашиванием первых N ячеек из соответствующей последовательности.
 
 ###   Структура проекта
@@ -92,6 +93,7 @@ Thus, the 13x13 grid is divided into four disjoint 6x6 blocks.
     *(1,1), (3,1), (2,2), (1,3), (5,1), (4,2), (3,3), (2,4), (1,5)* — These are 9 points arranged in the form of a "snake" or ladder.
 - **Odd position** (the oldest of the pair) uses the sequence:
 *(6,6), (6,4), (5,5), (4,6), (6,2), (5,3), (4,4), (3,5), (2,6)* — symmetrical reflection relative to the center of the block.
+
 The number from 0 to 9 is encoded by filling in the first N cells from the corresponding sequenceю
 
 ### Project structure
